@@ -16,9 +16,9 @@ timezone:
 
 title: Andy's Portfolio # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: All Of Andy's Projects # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
+description: List Of Projects # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "andywu784037"
 
 # ------------ The following options are not recommended to be modified ------------------
 
