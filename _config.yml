@@ -22,7 +22,7 @@ description: A list of Andy's projects List Of Projects # used by seo meta and t
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://andywu784037.github.io"
 
 github:
   username: andywu784037 # change to your GitHub username
@@ -33,8 +33,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Andy Wu
+  email: 784037@pdsb.net # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
